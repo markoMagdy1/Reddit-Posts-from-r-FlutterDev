@@ -1,13 +1,8 @@
 import React from 'react'
-import { Link, NavLink, Outlet } from 'react-router-dom';
+import {  NavLink, Outlet } from 'react-router-dom';
 import '../reddit/flutterDev.css';
 
-
-
 export const FlutterDev = () => {
-
-    
-
 
   return (
     <div className=''>

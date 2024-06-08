@@ -1,5 +1,5 @@
 import './App.css';
-import { Navigate, Route, Router, Routes } from 'react-router-dom';
+import { Navigate, Route, Routes } from 'react-router-dom';
 import { FlutterDev } from './components/pages/reddit/FlutterDev';
 import { New } from './components/pages/reddit/new';
 import { Hot } from './components/pages/reddit/hot';
